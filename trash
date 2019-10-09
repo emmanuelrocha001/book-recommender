@@ -1,0 +1,11 @@
+
+<div id="search_bar_holder" width='100%'>
+        <input id='search_bar' autofocus placeholder="search" class="form-control" type="text"
+        autocomplete="off" name="search" size="50"/>
+
+        <!-- <div id="icon-holder">
+                <button class="button" id='clear-path-button'>Clear Path</span></button>
+            <img src="./assets/search-engine.png" id="search-engine-icon">
+        </div> -->
+        <input type="image" id="icon-holder" src="./assets/search-engine.png" />
+    </div>

@@ -1,0 +1,27 @@
+{
+  "name": "book-recommender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmanuelrocha001/book-recommender.git"
+  },
+  "author": "Emmanuel Rocha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emmanuelrocha001/book-recommender/issues"
+  },
+  "homepage": "https://github.com/emmanuelrocha001/book-recommender#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "express": "^4.17.1",
+    "gh-pages": "^2.1.1",
+    "nodemon": "^1.19.3"
+  }
+}
